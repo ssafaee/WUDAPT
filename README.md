@@ -15,7 +15,7 @@ An interactive web version of the **WUDAPT India Atlas**: Local Climate Zone (LC
 
 | File | What it is |
 |---|---|
-| `index.html` | The complete viewer in one file, with all data and images built in. Open it in any browser. |
+| `WUDAPT_html_Interactive.html` | The complete viewer in one file, with all data and images built in. Open it in any browser. |
 | `INSTRUCTIONS.md` | How to view, publish, use and rebuild the viewer. |
 | `scripts/` | Python scripts that rebuild `index.html` from the atlas document. |
 
