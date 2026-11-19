@@ -28,7 +28,7 @@ An interactive web version of the **WUDAPT India Atlas**: Local Climate Zone (LC
 
 Designed and built by **Samira Safaee, Ph.D.** (ssafaee@purdue.edu)
 
-Atlas authors: Samira Safaee, Gauri Deshmukh, Dev Niyogi, Department of Agronomy, Purdue University.
+Atlas authors: Samira Safaee*, Gauri Deshmukh, Dev Niyogi, Department of Agronomy, Purdue University.
 
 ## Copyright
 
